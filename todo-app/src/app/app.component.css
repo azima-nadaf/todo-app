@@ -1,0 +1,12 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5
+    00px;
+    height: 200px;
+}
+
+.myInput{
+    display: inline;
+}
